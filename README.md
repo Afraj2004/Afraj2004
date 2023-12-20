@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afraj khan.
+- 👋 Hi, I’m Afraj Khan.
 - 👀 I’m interested in Data science and WebD project.
 - 🌱 I’m currently studying Chemical Engineering at Nit Raipur.
 - 💞️ I’m looking for collaboraters on my projects.
